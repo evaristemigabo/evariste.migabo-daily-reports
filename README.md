@@ -1,1 +1,1 @@
-# evariste.migabo-daily-reports
+Here in this repository, we will be including all daily reports for intro python class.
